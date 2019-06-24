@@ -1,0 +1,20 @@
+{
+  "name": "BSC_LM_ReadExcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rinlama/BSC_LM_ReadExcel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rinlama/BSC_LM_ReadExcel/issues"
+  },
+  "homepage": "https://github.com/Rinlama/BSC_LM_ReadExcel#readme"
+}
